@@ -1,6 +1,5 @@
 package unj.cs.hw4.ui.home
 
-import android.graphics.Path.Direction
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -9,8 +8,6 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import unj.cs.hw4.Coffee
-import unj.cs.hw4.databinding.FragmentDashboardBinding
 import unj.cs.hw4.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {

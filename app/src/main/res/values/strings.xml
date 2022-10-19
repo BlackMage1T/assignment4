@@ -3,4 +3,22 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Detail</string>
     <string name="title_fav">Favorite</string>
+
+    <string name="name1">Coffee1</string>
+    <string name="name2">Coffee1</string>
+    <string name="name3">Coffee1</string>
+    <string name="name4">Coffee1</string>
+    <string name="name5">Coffee1</string>
+
+    <string name="desc1">IniCoffee1</string>
+    <string name="desc2">IniCoffee2</string>
+    <string name="desc3">IniCoffee3</string>
+    <string name="desc4">IniCoffee4</string>
+    <string name="desc5">IniCoffee5</string>
+
+    <string name="detail1">IniCoffee1Gais</string>
+    <string name="detail2">IniCoffee2Gais</string>
+    <string name="detail3">IniCoffee3Gais</string>
+    <string name="detail4">IniCoffee4Gais</string>
+    <string name="detail5">IniCoffee5Gais</string>
 </resources>
